@@ -1,0 +1,101 @@
+{
+  "angles": [
+    127.5,
+    137.50776405003785
+  ],
+  "counts_per_exposure": 0,
+  "design": "normalized",
+  "eta_object": 0.8,
+  "eta_probe": 0.1,
+  "initial_probe_factor": 1.1,
+  "input_sha256": {
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\000_solid_v7.png": "590e8ebf97b525bc4e88227f5874797e513f5faa594d60a7e233e9486d6acdd6",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\001_islands_v5.png": "f9bd9003db55586b5551df00c468eabb0186a7ecc714ba2153aa74c5c5b367c1",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\002_rings_v7.png": "7a537dbd8ba6e616108cce381f80ce6367f851e1badc1fe4c46e7e8e86e0d791",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\003_perforated_v3.png": "b462531efcb72022934821939135d8e682806889627b02d244bfd6eb5d66b45b",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\004_nested_rings_v6.png": "b5c1d2ab3a1433369327af04148eef67d1e0320ccd3b36f366429b4f39b4a948",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\005_tree_v4.png": "8b8ec51580c9cad81e725a0f095655cb4d9a71c60a437fab9eac0854806e2566",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\006_network_v6.png": "a0f310c702c0047028c53a585a10bfa4dcc19ad7d2151f2c57dce8af5cb90ed3",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\007_labyrinth_v4.png": "82af1d6e5e39fc4595919d8a51eefb77494f859090f5c8a3aa6433314cc8ad05",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\008_fractures_v1.png": "fdbac632af4108255477ccc2fae17e2aba4f670e6645e61fde106c2dbde10ca5",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\009_stripes_v7.png": "7e35158009bee902980d08f76504bec400d3e02913ec3a1eeedb92b75e504ffb",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\010_checkerboard_v6.png": "cbe99bf2d92db366a709d09597529406776fbc5c1917d071fd5455ad2b8c0b03",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\011_radial_v5.png": "73a73ec36c10927b944cdd876d066d85a7c33704db79a6ae10f8434844ba5e69",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\012_spiral_v3.png": "8cfb664856df431d33d9a2eaf70627c7c9b2b8b6ec755e0becb3746c5f4f953f",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\013_blobs_v3.png": "c000b39953c283b7412abf55e38f64bda5a27986a31e8a1e6963f85084c2241d",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\014_multiscale_v6.png": "7d5f6a3b231a91be36c1c6880f170b3951dd156bf648666cf271779394083222",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\015_gradient_v4.png": "7958fa3826a1007dfcded9b5858e5124279fa8f26e00d7b159761d2bf2216da7",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\016_edges_v6.png": "416f8cd6726af925058892318b016233387b1c8b99d49d1bafc188708a91bdb4",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\017_grains_v2.png": "b38a4ab0f9eaa7bfaf6bafb7c899b57afe69bb4095b5d4a101886f3b5c2ae5a8",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\018_glyphs_v1.png": "c96df30c7f6b4f3215952578e2c04bc1b781f267a1a7dd3df24b7b44a701577c",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\019_scene_v0.png": "71c734ec95789dbb1bbe70d32c1c01dff5305977144391441b00f392c094f271",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\020_glyphs_v2.png": "93c4459c9ac6697ce583d4c7eec4d580330630fdbc18f9618b654748d41b9c46",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\021_rings_v0.png": "7d0d8cb04be799105041e022ca41f6fc52469e6351f4abdf0f130df685d6502c",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\022_nested_rings_v1.png": "f269412acf751682c5454b76d712fc1d797312ff0adb5e530bc49016fa3426b4",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\023_checkerboard_v5.png": "a2158277e6606b0c36625cdb162d3061270d2cd07416e6e3100dd3c5b97abfad"
+  },
+  "iterations": 20,
+  "known_probe": [
+    false
+  ],
+  "mode": "amplitude",
+  "objects": [
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\000_solid_v7.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\001_islands_v5.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\002_rings_v7.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\003_perforated_v3.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\004_nested_rings_v6.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\005_tree_v4.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\006_network_v6.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\007_labyrinth_v4.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\008_fractures_v1.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\009_stripes_v7.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\010_checkerboard_v6.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\011_radial_v5.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\012_spiral_v3.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\013_blobs_v3.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\014_multiscale_v6.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\015_gradient_v4.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\016_edges_v6.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\017_grains_v2.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\018_glyphs_v1.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\019_scene_v0.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\020_glyphs_v2.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\021_rings_v0.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\022_nested_rings_v1.png",
+    "C:\\Users\\zuoli\\OneDrive\\Desktop\\\u6587\u4ef6\\\u5b66\u4e60\\2026s2\\elec4713\\experimentcode\\fermat_auto_diverse_images\\fermat_auto\\results\\quick\\auto_dataset\\023_checkerboard_v5.png"
+  ],
+  "output": "results/quick",
+  "positions": [
+    96
+  ],
+  "probes": [
+    [
+      24,
+      6
+    ]
+  ],
+  "radius": 35.26683994916471,
+  "reference_n": 400,
+  "roi": 48,
+  "rotations": [
+    0
+  ],
+  "save_arrays": true,
+  "save_every": 5,
+  "seeds": [
+    2026
+  ],
+  "source_sha256": {
+    "dataset.py": "c3d066f7fbdc271067a7407a3666764814d855504bab4c7e0b0d57e9fcdc8235",
+    "experiment.py": "0143ab077108b975cb980c04de21caaad7db4382e1628d6276b5b5798fc91fc2",
+    "run.py": "a7609cf19ff8dbbf5523b103ed420c564a690e977434bfadafef1f836f05af18"
+  },
+  "targets": [
+    0.1,
+    0.05,
+    0.02,
+    0.01
+  ],
+  "total_detected_counts": 0
+}

@@ -1,0 +1,117 @@
+{
+  "angles": [
+    127.5,
+    137.50776405003785
+  ],
+  "counts_per_exposure": 0,
+  "design": "normalized",
+  "eta_object": 0.8,
+  "eta_probe": 0.1,
+  "initial_probe_factor": 1.1,
+  "input_sha256": {
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\000_solid_v7.png": "56c78ff24580514a3de2f4e741d537246bcce89d45c1c37c17d91e9361d0d8dc",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\001_islands_v5.png": "38151154eacfa31369f601c43f1821c7f1aef4b4633bad197f70004f337cdca0",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\002_rings_v4.png": "33c2c5c0b9121d3ada5e536a0a38edcf2f4cd2262c66c05a601e58e5bf45e2d8",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\003_perforated_v3.png": "5b47a927f175d50385f0fc99e4d845ddeca5486b5e52052e93a49f6991896d72",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\004_nested_rings_v6.png": "1b7c5adda43a8417b369eefa909b4c01efe836f7153dacf5242f2d64b36f5e65",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\005_tree_v4.png": "9e24599aa43cdf32387e229188fe0d624ef9274805e52da83b3df80f189e4730",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\006_network_v1.png": "3fbf85e61107b15580705ad8763566353caa05f66d333dbe8ff18492c8c4e33f",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\007_labyrinth_v4.png": "9945a52e725c3c44a95a932fc8d48893049451a2b66aaa090b3ff1c4f9b2222f",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\008_fractures_v4.png": "486840ad03235080288fa0cb61ec4dfb0061763723b217ee7b4c4235575766f2",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\009_stripes_v3.png": "2d30e8c14e9e2f0f4561a7ad6d849c0af64fabe164b47dc12095ff8ab5eca280",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\010_checkerboard_v6.png": "1e830610d62f0417d9eb20751259ef3fe0c6e82e805fc044bfdebc4654511477",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\011_radial_v5.png": "fc5094fedd4afd5d306e0eafafafe69531127a9a8dd70c60e8996d2f78eede84",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\012_spiral_v3.png": "c466f74fabae8503efdc61b7b0a980425ff1f15a965a89c11b752563fb212acf",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\013_blobs_v3.png": "580bebbe33f5ac6963719c46f371a427b969413d64d4a33c6ac8225979c2c780",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\014_multiscale_v3.png": "7df1b239f4a0b53a75fe447ef3eca0bfd34d656d2629dd63c6c45a97ccbca88f",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\015_gradient_v4.png": "3e1514b60b6691535cadd44a0221c39622e271a69e73c472d0421c1d8350ce7a",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\016_edges_v6.png": "9e820eb6d343b586656e038719a194fa5543352c15df7a21ecfc2248c6d19809",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\017_grains_v2.png": "a3b3e40372e2e6fa59b0dec43475c80d078c08cc6dcea2468a4ddca5bf928681",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\018_glyphs_v4.png": "801abcc8080aa27888765712d9eee4b5043d2067253bb4beead35c7b5a0d7f8d",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\019_scene_v5.png": "a7749411a51ada29d27c8cb75efc28bb4964ed1f09a521e6fc57d4a449313c36",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\020_glyphs_v2.png": "ae1588094a8e78239e87a032477a68483182ee4cc70a2f6c7f7346cef44ac1f8",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\021_tree_v6.png": "a37850e182b7dab5a58d99f0744a92fb9d27304649d9a5ae77a93b5762ef733a",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\022_multiscale_v6.png": "deb49799ef8e23d25856f5db91473c2b00cf50d6252be71f5360640e56a2b972",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\023_fractures_v0.png": "2d7804f21842dea8fc3dfcda3139c0d3cd832af89ec993f90b3facdd7b04d2b7"
+  },
+  "iterations": 1000,
+  "known_probe": [
+    false
+  ],
+  "mode": "amplitude",
+  "objects": [
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\000_solid_v7.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\001_islands_v5.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\002_rings_v4.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\003_perforated_v3.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\004_nested_rings_v6.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\005_tree_v4.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\006_network_v1.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\007_labyrinth_v4.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\008_fractures_v4.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\009_stripes_v3.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\010_checkerboard_v6.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\011_radial_v5.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\012_spiral_v3.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\013_blobs_v3.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\014_multiscale_v3.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\015_gradient_v4.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\016_edges_v6.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\017_grains_v2.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\018_glyphs_v4.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\019_scene_v5.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\020_glyphs_v2.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\021_tree_v6.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\022_multiscale_v6.png",
+    "C:\\Users\\zlia9815\\Downloads\\fermat_auto_diverse_images\\fermat_auto_diverse_images\\fermat_auto\\results\\main_run2\\auto_dataset\\023_fractures_v0.png"
+  ],
+  "output": "results/main_run2",
+  "positions": [
+    48,
+    96,
+    144,
+    192,
+    240,
+    288,
+    384
+  ],
+  "probes": [
+    [
+      48,
+      5.25
+    ],
+    [
+      48,
+      7
+    ],
+    [
+      48,
+      8.75
+    ]
+  ],
+  "radius": 70.53367989832942,
+  "reference_n": 400,
+  "roi": 96,
+  "rotations": [
+    0
+  ],
+  "save_arrays": true,
+  "save_every": 5,
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "source_sha256": {
+    "dataset.py": "c3d066f7fbdc271067a7407a3666764814d855504bab4c7e0b0d57e9fcdc8235",
+    "experiment.py": "0143ab077108b975cb980c04de21caaad7db4382e1628d6276b5b5798fc91fc2",
+    "run.py": "a7609cf19ff8dbbf5523b103ed420c564a690e977434bfadafef1f836f05af18"
+  },
+  "targets": [
+    0.1,
+    0.05,
+    0.02,
+    0.01
+  ],
+  "total_detected_counts": 0
+}

@@ -1,0 +1,1 @@
+Verified: dataset topology tests, deterministic 24-image selection with 20-family coverage, analytic metrics tests, ePIE selftest, 48/48 quick reconstructions, paired metrics and comparison plots. Full 3024-run study not executed.

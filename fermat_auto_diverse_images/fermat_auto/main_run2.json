@@ -1,0 +1,61 @@
+{
+  "output": "results/main_run2",
+  "roi": 96,
+  "radius": 70.53367989832942,
+  "positions": [
+    48,
+    96,
+    144,
+    192,
+    240,
+    288,
+    384
+  ],
+  "angles": [
+    127.5,
+    137.50776405003785
+  ],
+  "rotations": [
+    0
+  ],
+  "probes": [
+    [
+      48,
+      5.25
+    ],
+    [
+      48,
+      7
+    ],
+    [
+      48,
+      8.75
+    ]
+  ],
+  "objects": [],
+  "seeds": [
+    2026,
+    2027,
+    2028
+  ],
+  "known_probe": [
+    false
+  ],
+  "mode": "amplitude",
+  "iterations": 1000,
+  "save_every": 5,
+  "eta_object": 0.8,
+  "eta_probe": 0.1,
+  "initial_probe_factor": 1.1,
+  "counts_per_exposure": 0,
+  "total_detected_counts": 0,
+  "targets": [
+    0.1,
+    0.05,
+    0.02,
+    0.01
+  ],
+  "save_arrays": true,
+  "design": "normalized",
+  "reference_n": 400
+}
